@@ -34,8 +34,7 @@ function App() {
         <div className="hero-image" />
         <header className="masthead"><a href="#top" aria-label="RAIN2.0 home">R<span className="mint">/</span>2.0</a><span>THE OFFICIAL WEBSITE</span></header>
         <div className="hero-center">
-          <p className="eyebrow">MUSIC &nbsp; / &nbsp; STORIES &nbsp; / &nbsp; RAIN2.0</p>
-          <h1 className="wordmark"><img src={`${import.meta.env.BASE_URL}rain-official.png`} alt="RAIN2.0" width="1024" height="1024"/></h1>
+          <h1 className="wordmark"><img src={`${import.meta.env.BASE_URL}rain-logo-beveled.png`} alt="RAIN2.0" width="1445" height="1088"/></h1>
           <nav className="primary-nav" aria-label="Main navigation"><a href="#about">ABOUT</a><span aria-hidden="true">|</span><a href="#/comics">COMICS</a></nav>
           <Socials/>
         </div>
@@ -94,4 +93,3 @@ function Router() {
   return hash === '#/comics' ? <ComicReader/> : <App/>;
 }
 createRoot(document.getElementById('root')).render(<Router/>);
-

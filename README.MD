@@ -72,8 +72,10 @@ repeats episode 1 panel 6. Non-TBC versions are used between episodes. The autho
 final panel includes the next-chapter teaser. Chapter 2 draft files are not included.
 `src/comics.json` records the source filename of every panel for auditing.
 
-Official logo: `public/rain-official.png`. Chapter art: `public/comics/chapter-1/`.
+Current hero logo: `public/rain-logo-beveled.png` (transparent fractured metal with deeper bevels and dark sidewalls). Chapter art: `public/comics/chapter-1/`.
 The source images on G: are unchanged. `scripts/import-comics.py` creates optimized
 web copies and requires Pillow plus access to the author's Graphics folder; it is
 not needed for builds or deployment. Comic dialogue remains embedded in artwork;
 text transcripts are not yet available for screen readers.
+
+The hero uses a static dimensional logo with no glitch, Matrix trails, or scroll pinning.
