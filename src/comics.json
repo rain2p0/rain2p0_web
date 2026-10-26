@@ -1,0 +1,164 @@
+[
+  {
+    "src": "comics/chapter-1/panel-01.webp",
+    "width": 512,
+    "height": 512,
+    "source": "episode 1 - another night/panel 1.png"
+  },
+  {
+    "src": "comics/chapter-1/panel-02.webp",
+    "width": 498,
+    "height": 512,
+    "source": "episode 1 - another night/panel 2.png"
+  },
+  {
+    "src": "comics/chapter-1/panel-03.webp",
+    "width": 510,
+    "height": 512,
+    "source": "episode 1 - another night/panel 3.png"
+  },
+  {
+    "src": "comics/chapter-1/panel-04.webp",
+    "width": 508,
+    "height": 500,
+    "source": "episode 1 - another night/panel 4.png"
+  },
+  {
+    "src": "comics/chapter-1/panel-05.webp",
+    "width": 498,
+    "height": 500,
+    "source": "episode 1 - another night/panel 5.png"
+  },
+  {
+    "src": "comics/chapter-1/panel-06.webp",
+    "width": 510,
+    "height": 500,
+    "source": "episode 1 - another night/panel 6.png"
+  },
+  {
+    "src": "comics/chapter-1/panel-07.webp",
+    "width": 1254,
+    "height": 1254,
+    "source": "episode 2 - run/panel 1.png"
+  },
+  {
+    "src": "comics/chapter-1/panel-08.webp",
+    "width": 1254,
+    "height": 1254,
+    "source": "episode 2 - run/panel 2.png"
+  },
+  {
+    "src": "comics/chapter-1/panel-09.webp",
+    "width": 1254,
+    "height": 1254,
+    "source": "episode 2 - run/panel 3.png"
+  },
+  {
+    "src": "comics/chapter-1/panel-10.webp",
+    "width": 1254,
+    "height": 1254,
+    "source": "episode 2 - run/panel 4.png"
+  },
+  {
+    "src": "comics/chapter-1/panel-11.webp",
+    "width": 1254,
+    "height": 1254,
+    "source": "episode 2 - run/panel 5.png"
+  },
+  {
+    "src": "comics/chapter-1/panel-12.webp",
+    "width": 1254,
+    "height": 1254,
+    "source": "episode 2 - run/panel 6.png"
+  },
+  {
+    "src": "comics/chapter-1/panel-13.webp",
+    "width": 1254,
+    "height": 1254,
+    "source": "episode 2 - run/panel 7.png"
+  },
+  {
+    "src": "comics/chapter-1/panel-14.webp",
+    "width": 1254,
+    "height": 1254,
+    "source": "episode 3 - The library/Panel 1.png"
+  },
+  {
+    "src": "comics/chapter-1/panel-15.webp",
+    "width": 1254,
+    "height": 1254,
+    "source": "episode 3 - The library/Panel 2 v2.png"
+  },
+  {
+    "src": "comics/chapter-1/panel-16.webp",
+    "width": 1254,
+    "height": 1254,
+    "source": "episode 3 - The library/Panel 3 v3.png"
+  },
+  {
+    "src": "comics/chapter-1/panel-17.webp",
+    "width": 1254,
+    "height": 1254,
+    "source": "episode 3 - The library/Panel 4 v2.png"
+  },
+  {
+    "src": "comics/chapter-1/panel-18.webp",
+    "width": 1183,
+    "height": 1183,
+    "source": "episode 3 - The library/Panel 5 v3.png"
+  },
+  {
+    "src": "comics/chapter-1/panel-19.webp",
+    "width": 1254,
+    "height": 1254,
+    "source": "episode 3 - The library/Panel 6.png"
+  },
+  {
+    "src": "comics/chapter-1/panel-20.webp",
+    "width": 1254,
+    "height": 1254,
+    "source": "episode 4 - Yokai's trail/Panel 1.png"
+  },
+  {
+    "src": "comics/chapter-1/panel-21.webp",
+    "width": 1254,
+    "height": 1254,
+    "source": "episode 4 - Yokai's trail/Panel 2 v2.png"
+  },
+  {
+    "src": "comics/chapter-1/panel-22.webp",
+    "width": 1254,
+    "height": 1254,
+    "source": "episode 4 - Yokai's trail/Panel 3 v3.png"
+  },
+  {
+    "src": "comics/chapter-1/panel-23.webp",
+    "width": 1254,
+    "height": 1254,
+    "source": "episode 4 - Yokai's trail/Panel 4.png"
+  },
+  {
+    "src": "comics/chapter-1/panel-24.webp",
+    "width": 1254,
+    "height": 1254,
+    "source": "episode 4 - Yokai's trail/Panel 5 v2.png"
+  },
+  {
+    "src": "comics/chapter-1/panel-25.webp",
+    "width": 1254,
+    "height": 1254,
+    "source": "episode 4 - Yokai's trail/Panel 6 v3.png"
+  },
+  {
+    "src": "comics/chapter-1/panel-26.webp",
+    "width": 1254,
+    "height": 1254,
+    "source": "episode 4 - Yokai's trail/Panel 7.png"
+  },
+  {
+    "src": "comics/chapter-1/panel-27.webp",
+    "width": 1254,
+    "height": 1254,
+    "source": "episode 4 - Yokai's trail/Panel 8.png"
+  }
+]

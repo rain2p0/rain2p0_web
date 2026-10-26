@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 180" fill="none">
+  <title>RAIN2.0</title>
+  <desc>Angular RAIN lettering with a split crossbar, rain-like diagonal cuts, and a compact 2.0 signature.</desc>
+  <g fill="#f3f5f3">
+    <path fill-rule="evenodd" d="M28 16H127L153 42V83L128 107H98L155 164H114L58 107H49V164H20V45L28 16ZM49 43V80H115L124 71V52L115 43H49Z"/>
+    <path d="M220 16H252L317 164H284L236 53L189 164H156L220 16Z"/>
+    <path d="M211 109H261L273 136H199L211 109Z"/>
+    <path d="M338 16H369V164H338V16Z"/>
+    <path d="M401 16H432L516 116V16H547V164H518L432 63V164H401V16Z"/>
+    <path d="M577 22H620V31L590 51H620V61H575V49L605 32H577V22Z"/>
+    <path d="M629 51H639V61H629V51Z"/>
+    <path fill-rule="evenodd" d="M576 75H639V125H576V75ZM587 85V115H628V85H587Z"/>
+  </g>
+  <path d="M575 146H639" stroke="#9cd9d2" stroke-width="3"/>
+</svg>
